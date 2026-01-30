@@ -1,2 +1,2 @@
-# Remote Repository
-Description added on remote repository before clone
+# Repositório Remoto
+Descrição adicionada no reporitório remoto antes do clone
